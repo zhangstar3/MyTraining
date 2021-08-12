@@ -1,3 +1,4 @@
 # MyTraining
 there is nothing but some training demo code.
-Time past first.
+Time past first.continue
+
